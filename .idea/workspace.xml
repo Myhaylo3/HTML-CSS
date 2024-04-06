@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="588ef187-5ffd-4c93-8e8b-3f3c562fb823" name="Changes" comment="homeworks3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="588ef187-5ffd-4c93-8e8b-3f3c562fb823" name="Changes" comment="hm3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <workItem from="1712428590342" duration="15000" />
       <workItem from="1712428644341" duration="1763000" />
       <workItem from="1712430439801" duration="238000" />
-      <workItem from="1712430906262" duration="4076000" />
+      <workItem from="1712430906262" duration="4333000" />
     </task>
     <task id="LOCAL-00001" summary="homeworks2">
       <option name="closed" value="true" />
@@ -126,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712432624157</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hm3">
+      <option name="closed" value="true" />
+      <created>1712438050196</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712438050196</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="homeworks2" />
     <MESSAGE value="homeworks3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homeworks3" />
+    <MESSAGE value="hm3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm3" />
   </component>
 </project>
