@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="588ef187-5ffd-4c93-8e8b-3f3c562fb823" name="Changes" comment="homeworks3">
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/Task2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/image 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/image10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/image3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/image7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/image8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/image9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson Four/Fotos task one/task1.html" afterDir="false" />
+    <list default="true" id="588ef187-5ffd-4c93-8e8b-3f3c562fb823" name="Changes" comment="hm4">
+      <change afterPath="$PROJECT_DIR$/Lesson Five/Task free.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson Five/Task one.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson Five/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson Five/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson Five/image3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,28 +37,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/IdeaProjects/HTML-CSS/Lesson Four/Fotos task one&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Acer/IdeaProjects/HTML-CSS/Lesson Five",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS\Lesson Five" />
       <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS\Lesson Four\Fotos task one" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS\Lesson Five" />
       <recent name="C:\Users\Acer\IdeaProjects\HTML-CSS\Lesson Four\Fotos task one" />
     </key>
   </component>
@@ -103,6 +100,12 @@
       <workItem from="1712755478684" duration="560000" />
       <workItem from="1712756077616" duration="44000" />
       <workItem from="1712756144575" duration="1236000" />
+      <workItem from="1712761173228" duration="284000" />
+      <workItem from="1712781775872" duration="937000" />
+      <workItem from="1712784363685" duration="115000" />
+      <workItem from="1712784822271" duration="719000" />
+      <workItem from="1712835513760" duration="4000" />
+      <workItem from="1712840110741" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary="homeworks2">
       <option name="closed" value="true" />
@@ -192,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712594884625</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="hm4">
+      <option name="closed" value="true" />
+      <created>1712761214466</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712761214466</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +213,7 @@
     <MESSAGE value="homeworks2" />
     <MESSAGE value="hm3" />
     <MESSAGE value="homeworks3" />
-    <option name="LAST_COMMIT_MESSAGE" value="homeworks3" />
+    <MESSAGE value="hm4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm4" />
   </component>
 </project>
